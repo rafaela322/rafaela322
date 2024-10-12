@@ -9,3 +9,4 @@ estou me desenvolvendo na linguagem Javascript
  ### você entar em contato comigo 📫
 
  rafaela.chaves.rocha@escola.pr.gov .br
+@rafaela.chaves.rocha@escola.pr.gov.br
